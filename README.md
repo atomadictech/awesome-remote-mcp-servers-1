@@ -2790,7 +2790,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
   🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
 - [Atomadic](https://atomadic.tech) `https://mcp.atomadic.tech/mcp`
-  🔐 - Deterministic EU AI Act, GDPR and CCPA checks, trust scoring and agent identity verification over MCP; the free ledger verbs need no key, and the same input returns the same bytes.
+  [![Atomadic MCP connector](https://glama.ai/mcp/connectors/tech.atomadic/atomadic/badges/score.svg)](https://glama.ai/mcp/connectors/tech.atomadic/atomadic)
+  🔓 - Deterministic EU AI Act, GDPR and CCPA checks, trust scoring and agent identity verification over MCP; the free ledger verbs need no key, and the same input returns the same bytes.
 - [Cheap NY Publication](https://cheapnypublication.com/ai) `https://cheapnypublication.com/mcp`
   [![Cheap NY Publication MCP connector](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc)
   🔓 - New York LLC lookup from the state register: publication deadline, county and price, plus filing quotes.
